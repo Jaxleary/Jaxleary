@@ -1,6 +1,6 @@
 Hi, I'm Jackson Leary
 
-Incoming M.S. in Business Analytics student at California Polytechnic State University, San Luis Obispo, with a background in environmental science, mathematics, and data analysis.
+M.S. in Business Analytics student at California Polytechnic State University, San Luis Obispo, with a background in environmental science, mathematics, and data analysis.
 
 I recently earned a B.S. in Environmental Sciences (Aquatic Biology) with a minor in Mathematics from Oregon State University. My interests include business analytics, sports analytics, environmental analytics, and real estate analytics.
 
