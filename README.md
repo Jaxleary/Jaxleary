@@ -13,13 +13,13 @@ Statistical Modeling
 Data Visualization
 Technical Skills
 
-Programming: Python, R, SQL
+Programming: Python, R, SQL, Scikit-learn
 
 Analytics: Statistical Modeling, Regression Analysis, Hypothesis Testing, Data Cleaning
 
 Visualization: Tableau, ggplot2, Matplotlib
 
-Tools: Excel, GitHub, Jupyter Notebooks, RStudio
+Tools: Excel, GitHub, Jupyter Notebooks, RStudio,
 
 Featured Projects
 Baseball Analytics
